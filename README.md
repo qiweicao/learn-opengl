@@ -1,4 +1,4 @@
-###Usage
+### Usage
 ```bash
 git clone --recursive https://github.com/qiweicao/learn-opengl.git
 
@@ -8,7 +8,8 @@ cmake ..
 cmake --build
 cd ..
 ```
-###OpenGL
+### OpenGL
+
 versioin: 4.6
 ### License
 
