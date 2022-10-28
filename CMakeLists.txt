@@ -16,6 +16,7 @@ add_subdirectory(external/glad)
 set(MAIN_INCLUDE
   ${PROJECT_SOURCE_DIR}/external/glad/include/
   ${PROJECT_SOURCE_DIR}/external/glfw/include/
+  ${PROJECT_SOURCE_DIR}/external/stb/
 )
 set(MAIN_LIBRARY
   glfw
